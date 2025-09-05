@@ -28,6 +28,7 @@ If arr[j] <= pivot:
 
 Increase i.
 
+
 Swap arr[i] with arr[j].
 
 After loop ends:
