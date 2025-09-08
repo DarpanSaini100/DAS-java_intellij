@@ -2,7 +2,7 @@ package Sorting.quick;
 import java.util.Scanner;
 
 /*
-Algorithm (Step by Step)
+Algo _ try to be cool rithm (Step by Step)
 
 QuickSort Function
 
@@ -52,7 +52,7 @@ FUNCTION Partition(arr, low, high)
 
     FOR j = low TO high - 1 DO
         IF arr[j] <= pivot THEN
-            i = i + 1
+            i = i + 1 ;
             SWAP arr[i] WITH arr[j]
         END IF
     END FOR
